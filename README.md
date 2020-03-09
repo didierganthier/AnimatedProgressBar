@@ -4,6 +4,8 @@ I was trying to get used to this animated progress bar in hopes I can use it in 
 NB: Mostly used for splash screens
 
 It is based on the work of Lopez Mikhael
+### Demonstration
+<img src="ApbAndroid.mp4"/>
 
 ### Usage
 # Gradle
