@@ -7,7 +7,7 @@ It is based on the work of Lopez Mikhael
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of how this app works:
 
 <img src='ApbAndroid.gif' title='Video Walkthrough' width='300' />
 
